@@ -1,2 +1,2 @@
 # IsItOverAriel-
-codes for pan/tilt robotic sticks 
+codes for pan/tilt puppet-robotic sticks 
