@@ -1,6 +1,6 @@
 # Press and References
 
-This bibliography documents *Je že konec? / Is It Over?* and separates official production records, independent criticism, creator documentation, and event or award notices. Links were checked on 9 November 2026. Some sources are in Slovenian.
+This annotated bibliography documents *Je že konec? / Is It Over?* and separates official production records, independent criticism, creator documentation, and event or award notices. Credits, dates, and link destinations were reviewed on 9 November 2026. Most sources are in Slovenian.
 
 ## Official production pages
 
@@ -10,17 +10,11 @@ This bibliography documents *Je že konec? / Is It Over?* and separates official
 - **URL:** https://moment.si/en/performance/is-it-over/
 - **Description:** Official English production page with synopsis, full credits, photographer attribution, festival information, performance dates, gallery and trailer.
 
-### Maribor Puppet Theatre — *Is it over yet?*
-
-- **Publisher:** Maribor Puppet Theatre
-- **URL:** https://www.lg-mb.si/en/past-seasons/is-it-over-yet/
-- **Description:** Official English archive entry from the co-producer, including the artistic framing, cast and crew, gallery, and November 2022 premiere information.
-
 ### Maribor Puppet Theatre — *Je že konec?*
 
 - **Publisher:** Lutkovno gledališče Maribor
 - **URL:** https://www.lg-mb.si/predstave/je-ze-konec/
-- **Description:** Current Slovenian production record. It lists the 45-minute duration, credits, responses, Zlata paličica recommendation, and 2023 ZIZ award.
+- **Description:** Current Slovenian production record from the co-producer. It lists the 45-minute duration, full creative credits, production photographs, critical responses, Zlata paličica recommendation, and 2023 ZIZ award.
 
 ### SiGledal — *Je že konec?*
 
@@ -44,7 +38,7 @@ These are critical responses rather than producer announcements or event listing
 - **Publication:** *Večer*
 - **Date:** 5 December 2022
 - **URL:** https://vecer.com/kultura/gledaliska-kritika-dont-stop-me-now-10322413
-- **Description:** A review of the premiere production and its 1 December performance. Vidali discusses the mechanical voice, surveillance-like eyes, end-of-the-world framing, three performers and the work's effectiveness as a theatrical lesson for young audiences.
+- **Description:** A review of the premiere production and its 1 December performance. The accessible introduction discusses the mechanical voice, surveillance-like eyes, end-of-the-world framing, three performers, and the work as a theatrical lesson for young audiences; the remainder is subscriber-only.
 
 ### “Konec sveta” (“The End of the World”)
 
@@ -91,11 +85,11 @@ No standalone interview devoted specifically to this production was verified in 
 
 These sources document reception and circulation but are not independent reviews.
 
-### ZIZ award for performance
+### ZIZ Award for Performance
 
-- **Publication:** SiGledal, “Nagrade in nagrajenci sezone 2023/2024”
-- **URL:** https://veza.sigledal.org/prispevki/nagrade-in-nagrajenci-sezone-2023-2024
-- **Description:** Season awards roundup recording that *Je že konec?* received the award for performance at the 2023 ZIZ Festival of Maribor alternative theatre production.
+- **Publication:** SiGledal, “Podeljene nagrade ZIZ za alternativne gledališke produkcije”
+- **URL:** https://veza.sigledal.org/prispevki/podeljene-nagrade-ziz-za-alternativne-gledaliske-produkcije-2
+- **Description:** Award report recording that *Je že konec?* received the award for performance at the 2023 ZIZ Festival of Maribor alternative theatre production.
 
 ### 5th ZIZ Festival programme
 
@@ -138,8 +132,8 @@ The first eye photograph in the official Moment gallery is:
 - **Photographer:** Boštjan Lah
 - **Source page:** https://moment.si/en/performance/is-it-over/
 
-The source page and other official production records consistently credit Boštjan Lah, but no licence or explicit permission to redistribute the photograph was found. For that reason, the image is not copied into this repository. The README links to the original file and production page instead.
+The image is the first gallery item on Moment's official production page. Moment, Maribor Puppet Theatre, SiGledal, and the *Večer* review consistently credit the production photographs to Boštjan Lah, but no licence or explicit permission to redistribute this photograph was found. For that reason, the image is not copied into this repository. The README links to the publisher-hosted file and its production context instead.
 
 ## Search note
 
-Research included the requested combinations of the Slovenian and English titles with Ariel Doron, Nika Bezeljak, Monika Pocrnjić and Maribor Puppet Theatre, as well as the known review-title and author combinations for Petra Vidali and Tjaša Bertoncelj. Only sources that could be tied to a working publisher URL were included. Event listings and producer-authored pages are labelled separately from independent press criticism.
+Research included combinations of the Slovenian and English titles with Ariel Doron, Nika Bezeljak, Monika Pocrnjić, and Maribor Puppet Theatre, as well as the known review-title and author combinations for Petra Vidali and Tjaša Bertoncelj. Only sources that could be tied to an identified publisher URL were included. Event listings, institutional records, and producer-authored pages are labelled separately from independent criticism.
