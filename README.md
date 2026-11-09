@@ -114,8 +114,25 @@ Credits have been checked against the official production records linked below.
 
 See [Press and References](PRESS_AND_REFERENCES.md) for an annotated bibliography, educational material, festival records, and the image-rights note.
 
-## Archive and reuse
+## Licensing
 
-This repository documents production code and context from *Is It Over?*. The two original `.ino` files are preserved as production artifacts and have not been edited as part of the documentation work.
+- Original project documentation, artistic descriptions, and README content
+  owned by the repository author or used with permission are licensed under
+  [Creative Commons Attribution 4.0 International](LICENSE-CC-BY-4.0.md)
+  ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+- The Arduino source files [`ptservojoy.ino`](ptservojoy.ino) and
+  [`ptservojoy2.ino`](ptservojoy2.ino) are licensed under the
+  [MIT License](LICENSE-MIT). Their shared controller logic derives from an
+  [ArduinoGetStarted.com example](https://arduinogetstarted.com/tutorials/arduino-joystick-servo-motor)
+  expressly released into the public domain; the repository history records
+  the production-specific versions as uploaded by Mon in 2023.
+- Third-party materials, photographs, press articles, linked websites, and
+  external media are excluded from these licences unless their rights holders
+  explicitly grant permission.
+- The linked production photograph `195A3900.jpg`, credited to Boštjan Lah,
+  is **not** covered by either licence without appropriate authorisation from
+  its rights holder.
 
-No licence is currently stated for the code, text, or production imagery. The absence of a licence should not be interpreted as permission to reproduce, modify, or redistribute those materials. Contact the relevant creators or rights holders for reuse.
+These licences grant rights only to material the relevant licensor is
+authorised to license. They do not alter copyright notices, credits, or terms
+attached to third-party material.
