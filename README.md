@@ -1,12 +1,12 @@
 # *Is It Over?*
 
-## [View `195A3900.jpg` — the blue-lit robotic eye puppet](https://moment.si/wp-content/uploads/2022/11/195A3900.jpg)
+![Blue-lit robotic eye puppet from *Is It Over?*](images/195A3900.jpg)
 
-*Photograph: Boštjan Lah · Source: [Moment — Is It Over?](https://moment.si/en/performance/is-it-over/)*
+**Photograph © Boštjan Lah — used with permission.**
 
-> This photograph is third-party material. It is linked from its original
-> publisher and is not covered by this repository's CC BY 4.0 or MIT licences.
-> No copy of the image is stored in this repository.
+> The photograph [`images/195A3900.jpg`](images/195A3900.jpg) is excluded from
+> this repository's CC BY 4.0 and MIT licences. All rights remain with the
+> photographer; its inclusion here does not grant permission for reuse.
 
 Robotic puppetry, interactive theatre, and an archive of a handmade control system.
 
@@ -131,9 +131,9 @@ See [Press and References](PRESS_AND_REFERENCES.md) for an annotated bibliograph
 - Third-party materials, photographs, press articles, linked websites, and
   external media are excluded from these licences unless their rights holders
   explicitly grant permission.
-- The linked production photograph `195A3900.jpg`, credited to Boštjan Lah,
-  is **not** covered by either licence without appropriate authorisation from
-  its rights holder.
+- The production photograph [`images/195A3900.jpg`](images/195A3900.jpg),
+  © Boštjan Lah and used with permission, is **excluded** from both the
+  CC BY 4.0 and MIT licences. All rights remain with the photographer.
 
 These licences grant rights only to material the relevant licensor is
 authorised to license. They do not alter copyright notices, credits, or terms
