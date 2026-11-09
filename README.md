@@ -1,16 +1,18 @@
 # *Is It Over?*
 
-> Robotic puppetry, interactive theatre, and an archive of a handmade control system
+## [View `195A3900.jpg` — the blue-lit robotic eye puppet](https://moment.si/wp-content/uploads/2022/11/195A3900.jpg)
+
+*Photograph: Boštjan Lah · Source: [Moment — Is It Over?](https://moment.si/en/performance/is-it-over/)*
+
+> This photograph is third-party material. It is linked from its original
+> publisher and is not covered by this repository's CC BY 4.0 or MIT licences.
+> No copy of the image is stored in this repository.
+
+Robotic puppetry, interactive theatre, and an archive of a handmade control system.
 
 *Je že konec? / Is It Over?* is an experimental performance set in the final moments before an imagined apocalypse. Presented as the planet's last safe space, it brings performers and audience together around last wishes, private fears, trust, vulnerability, and the question of what kind of world might remain possible.
 
 The work combines devised performance, object theatre, audience interaction, and a deliberately DIY technological language. This repository preserves the two Arduino sketches used to translate a performer's joystick gestures into the pan-and-tilt motion of robotic stage objects.
-
-> **Production photograph**
->
-> [View the eye photograph in Moment's official gallery](https://moment.si/wp-content/uploads/2022/11/195A3900.jpg) · Photograph by **Boštjan Lah** · [Production page and full gallery](https://moment.si/en/performance/is-it-over/)
->
-> The photograph remains linked to its publisher because the official sources credit the photographer but do not state a licence authorising redistribution.
 
 | Production | Details |
 | --- | --- |
